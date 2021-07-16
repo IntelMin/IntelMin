@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **IntelMin/IntelMin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--- Senior Blockchain Engineer --
+👋 <b>Senior Blockchain Engineer</b>
 
-Enthusiastic full-stack engineer with 7+ years of experience in software development.
+<i>Enthusiastic full-stack engineer with 7+ years of experience in software development.
 
 Participated in the complete product development lifecycle of successfully launched applications based on AI and blockchain technology.
 
@@ -25,7 +23,7 @@ Spent multiple years building up blockchain infrastructure for several organizat
 
 Well versed in various programming languages, frameworks and platforms, and also strong with DevOps, team collaboration, and projects management.
 
-A quick learner, hardworking, committed team player, proactive self-starter, resourceful manager and capable of handling stressful conditions.
+A quick learner, hardworking, committed team player, proactive self-starter, resourceful manager and capable of handling stressful conditions.</i>
 
 
 
