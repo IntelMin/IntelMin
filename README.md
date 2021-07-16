@@ -1,29 +1,25 @@
-<!--
-**IntelMin/IntelMin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Senior Blockchain Engineer</h1>
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😎 Enthusiastic full-stack engineer with 7+ years of experience in software development.
 
-👋 <b>Senior Blockchain Engineer</b>
+🚀 Participated in the complete product development lifecycle of successfully launched applications based on AI and blockchain technology.
 
-<i>Enthusiastic full-stack engineer with 7+ years of experience in software development.
+🔭 Spent multiple years building up blockchain infrastructure for several organizations with combined experience in FinTech, Data Science, Software Engineering, and Blockchain Industry.
 
-Participated in the complete product development lifecycle of successfully launched applications based on AI and blockchain technology.
+👨‍💻 Well versed in various programming languages, frameworks and platforms, and also strong with DevOps, team collaboration, and projects management.
 
-Spent multiple years building up blockchain infrastructure for several organizations with combined experience in FinTech, Data Science, Software Engineering, and Blockchain Industry.
+⚡ A quick learner, hardworking, committed team player, proactive self-starter, resourceful manager and capable of handling stressful conditions.
 
-Well versed in various programming languages, frameworks and platforms, and also strong with DevOps, team collaboration, and projects management.
+👨‍🎓 Master's Degree of Applied Science
 
-A quick learner, hardworking, committed team player, proactive self-starter, resourceful manager and capable of handling stressful conditions.</i>
+## Short History
 
+&emsp;...
 
+- Core Team Member at <a href="https://github.com/bird-money">Bird.Money</a>
 
+- Lead Engineer(<i>CTO</i>) at <a href="https://github.com/payrlink">PayrLink</a>
+
+- Architect & Technical Advisor at <a href="https://github.com/B-Datagray">B-Datagray</a>
