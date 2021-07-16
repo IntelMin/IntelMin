@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-- Senior Blockchain Engineer --
+
+Enthusiastic full-stack engineer with 7+ years of experience in software development.
+
+Participated in the complete product development lifecycle of successfully launched applications based on AI and blockchain technology.
+
+Spent multiple years building up blockchain infrastructure for several organizations with combined experience in FinTech, Data Science, Software Engineering, and Blockchain Industry.
+
+Well versed in various programming languages, frameworks and platforms, and also strong with DevOps, team collaboration, and projects management.
+
+A quick learner, hardworking, committed team player, proactive self-starter, resourceful manager and capable of handling stressful conditions.
+
+
+
