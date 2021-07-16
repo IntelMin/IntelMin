@@ -20,6 +20,6 @@
 
 - Core Team Member at <a href="https://github.com/bird-money">Bird.Money</a>
 
-- Lead Engineer(<i>CTO</i>) at <a href="https://github.com/payrlink">PayrLink</a>
+- Lead Engineer at <a href="https://github.com/payrlink">PayrLink</a>
 
 - Architect & Technical Advisor at <a href="https://github.com/B-Datagray">B-Datagray</a>
