@@ -22,4 +22,4 @@
 
 - Lead Engineer at <a href="https://github.com/katanainu">Katana Inu</a>
 
-- Architect & Technical Advisor at <a href="https://github.com/B-Datagray">B-Datagray</a>
+- Architect & Technical Advisor at <a href="https://github.com/Datagen-Project">B-Datagray</a>
