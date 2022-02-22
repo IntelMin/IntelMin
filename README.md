@@ -18,7 +18,7 @@
 
 - Lead Blockchain Engineer at <a href="https://github.com/katanainu">Katana Inu</a>
 
-- Solution Architect & Blockchain Advisor at <a href="https://github.com/Datagen-Project">B-Datagray</a>
+- Solution Architect & Blockchain Advisor at <a href="https://github.com/Datagen-Project">Datagen</a>
 
 - Senior Solidity Engineer at <a href="https://github.com/bird-money">Bird.Money</a>
 
