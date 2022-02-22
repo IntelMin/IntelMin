@@ -2,24 +2,24 @@
 
 ## About
 
-😎 Enthusiastic full-stack engineer with 7+ years of experience in software development.
+😎 Trusted engineer with 8+ years of experience in blockchain industry.
 
-🚀 Participated in the complete product development lifecycle of successfully launched applications based on AI and blockchain technology.
+🔭 Spent multiple years building up blockchain infrastructure for several organizations with combined experience in FinTech, Software Engineering, and Blockchain Architecture.
 
-🔭 Spent multiple years building up blockchain infrastructure for several organizations with combined experience in FinTech, Data Science, Software Engineering, and Blockchain Industry.
+🚀 Participated in the complete product development lifecycle of successfully launched projects based on cutting-edge technologies of DeFi and Cryptography.
 
-👨‍💻 Well versed in various programming languages, frameworks and platforms, and also strong with DevOps, team collaboration, and projects management.
+👨‍💻 Well versed in blockchain programming languages, frameworks and platforms,  and having good experience in Agile development, DevOps and Team collaboration.
 
 ⚡ A quick learner, hardworking, committed team player, proactive self-starter, resourceful manager and capable of handling stressful conditions.
 
-👨‍🎓 Master's Degree of Applied Science
+👨‍🎓 Master's Degree of Computer Science
 
 ## Short History
 
+- Lead Blockchain Engineer at <a href="https://github.com/katanainu">Katana Inu</a>
+
+- Solution Architect & Blockchain Advisor at <a href="https://github.com/Datagen-Project">B-Datagray</a>
+
+- Senior Solidity Engineer at <a href="https://github.com/bird-money">Bird.Money</a>
+
 &emsp;...
-
-- Core Team Member at <a href="https://github.com/bird-money">Bird.Money</a>
-
-- Lead Engineer at <a href="https://github.com/katanainu">Katana Inu</a>
-
-- Architect & Technical Advisor at <a href="https://github.com/Datagen-Project">B-Datagray</a>
