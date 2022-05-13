@@ -23,3 +23,11 @@
 - Senior Solidity Engineer at <a href="https://github.com/bird-money">Bird.Money</a>
 
 &emsp;...
+
+--- 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IntelMin&theme=white" /> 
+
+<img align="center" alt="msilucifer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IntelMin&show_icons=true&hide_border=true" /><br /><br />
+
+---
