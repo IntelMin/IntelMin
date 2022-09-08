@@ -29,5 +29,5 @@
 --- 
 
 <img align="center" alt="Intel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IntelMin&show_icons=true&hide_border=true" /><br /><br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sm4rty-1&theme=dark&hide_border=true" width = 400 />
+<img align="center" alt="Intel's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=IntelMin&hide_border=true" />
 ---
