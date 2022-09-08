@@ -1,4 +1,4 @@
-<h1 align="center">👋 Senior Blockchain Engineer</h1>
+<h1 align="center"><img align="center" alt="Hi there!" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> Senior Blockchain Engineer</h1>
 
 ## About
 
@@ -28,6 +28,6 @@
 
 --- 
 
-<img align="center" alt="msilucifer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IntelMin&show_icons=true&hide_border=true" /><br /><br />
+<img align="center" alt="Intel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IntelMin&show_icons=true&hide_border=true" /><br /><br />
 
 ---
