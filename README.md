@@ -28,6 +28,6 @@
 
 --- 
 
-<img align="center" alt="Intel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IntelMin&show_icons=true&hide_border=true" /><br /><br />
-<img align="center" alt="Intel's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=IntelMin&hide_border=true" />
+<img align="center" alt="Intel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IntelMin&show_icons=true&hide_border=true&theme=dark" /><br /><br />
+<img align="center" alt="Intel's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=IntelMin&hide_border=true&theme=dark" />
 ---
