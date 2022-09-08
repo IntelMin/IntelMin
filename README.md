@@ -1,4 +1,4 @@
-<h1 align="center"><img align="center" width="20" alt="Hi there!" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> Senior Blockchain Engineer</h1>
+<h1 align="center"><img align="center" width="35" alt="Hi there!" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> Senior Blockchain Engineer</h1>
 
 ## About
 
