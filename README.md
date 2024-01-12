@@ -2,7 +2,7 @@
 
 ## About
 
-😎 Trusted engineer with 8+ years of experience in blockchain industry.
+😎 Trusted engineer with 8+ years of experience in web & blockchain industry.
 
 🔭 Spent multiple years building up blockchain infrastructure for several organizations with combined experience in FinTech, Software Engineering, and Blockchain Architecture.
 
@@ -16,7 +16,11 @@
 
 ## Short History
 
-- Software Engineer at <a href="https://github.com/hotg-ai">Hammer of the Gods</a>
+- Web3 & Blockchain Expert at <a href="https://asban.com">Asban Group</a>
+
+- Senior Web3 Engineer at <a href="https://github.com/hotg-ai">Hammer of the Gods</a>
+
+- Senior Solidity Engineer at <a href="https://github.com/vesta-finance">Vesta Finance</a>
 
 - Lead Blockchain Engineer at <a href="https://github.com/katanainu">Katana Inu</a>
 
