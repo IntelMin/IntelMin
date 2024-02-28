@@ -1,4 +1,4 @@
-<h1 align="center"><img align="center" width="43" alt="Hi there!" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> Senior Blockchain Engineer</h1>
+<h1 align="center"><img align="center" width="43" alt="Hi there!" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> Blockchain Expert</h1>
 
 ## About
 
@@ -31,7 +31,7 @@
 &emsp;...
 
 --- 
-
+<!-- <img align="center" alt="Intel's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=IntelMin&show_icons=true&locale=en&hide_border=true&theme=dark&layout=compact" /> -->
 <img align="center" alt="Intel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IntelMin&show_icons=true&hide_border=true&theme=dark" />
 <img align="center" alt="Intel's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=IntelMin&hide_border=true&theme=dark" />
 
