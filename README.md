@@ -16,9 +16,9 @@
 
 ## Short History
 
-- Web3 & Blockchain Expert at <a href="https://asban.com">Asban Group</a>
+- Web3 Expert at <a href="https://asban.com">Asban Group</a>
 
-- Senior Web3 Engineer at <a href="https://github.com/hotg-ai">Hammer of the Gods</a>
+- Blockchain Engineer at <a href="https://github.com/hotg-ai">Hammer of the Gods</a>
 
 - Senior Solidity Engineer at <a href="https://github.com/vesta-finance">Vesta Finance</a>
 
