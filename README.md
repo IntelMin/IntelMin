@@ -12,7 +12,7 @@
 
 ⚡ A quick learner, hardworking, committed team player, proactive self-starter, resourceful manager and capable of handling stressful conditions.
 
-👨‍🎓 Master of Science (Computer Science)
+👨‍🎓 MS in Computer Science
 
 ## Short History
 
