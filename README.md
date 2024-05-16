@@ -18,13 +18,13 @@
 
 - Web3 Expert at <a href="https://asban.com">Asban Group</a>
 
-- Blockchain Engineer at <a href="https://github.com/hotg-ai">Hammer of the Gods</a>
+- Full-stack Blockchain Engineer at <a href="https://github.com/hotg-ai">Hammer of the Gods</a>
 
 - Senior Solidity Engineer at <a href="https://github.com/vesta-finance">Vesta Finance</a>
 
 - Lead Blockchain Engineer at <a href="https://github.com/katanainu">Katana Inu</a>
 
-- Solution Architect & Blockchain Advisor at <a href="https://github.com/Datagen-Project">Datagen</a>
+- Solution Architect & Blockchain Advisor at <a href="https://github.com/Datagen-Project">B-Datagray</a>
 
 - Senior Solidity Engineer at <a href="https://github.com/bird-money">Bird.Money</a>
 
