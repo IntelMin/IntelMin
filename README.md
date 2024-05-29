@@ -36,6 +36,6 @@
 --- 
 
 <img align="center" alt="Intel's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intelmin&theme=dark&hide_progress=true&hide_border=true" />
-<img align="center" alt="Intel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=intelmin&show_icons=true&hide_border=true&theme=dark&rank_icon=github" />
+<img align="center" alt="Intel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=intelmin&show_icons=true&hide_border=true&theme=dark&rank_icon=github&show_icons=true" />
 
 ---
