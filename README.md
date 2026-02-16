@@ -8,8 +8,3 @@ Sr. Engineer | Researcher | Web3 Specialist | Crypto Enthusiast
 
 &emsp;...
 
---- 
-
-<img align="center" alt="Intel's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intelmin&theme=dark&hide_progress=true&hide_border=true" />
-
----
